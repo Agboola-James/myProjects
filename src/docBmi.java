@@ -6,7 +6,7 @@ public class docBmi {
             //WELCOME MENU
             System.out.println("\nWelcome to the BMI Calculator!\nThis program calculates your Body Mass Index (BMI) and classifies it into a category\n");
 
-            //INTRO MENU
+            //INTRODUCTION MENU
             System.out.println("How would you like me to call you");
             Scanner one = new Scanner(System.in);
             String name = one.nextLine();
